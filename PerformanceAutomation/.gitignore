@@ -1,0 +1,9 @@
+/.idea
+/target/
+/PerformanceAutomation.iml
+.settings/
+.project
+.classpath
+/gc.log
+gc.log
+*.iml

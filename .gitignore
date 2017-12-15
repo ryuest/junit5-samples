@@ -21,3 +21,9 @@ gradle-app.setting
 *.log
 *.class
 *.jar
+
+/target/
+/PerformanceAutomation.iml
+/gc.log
+gc.log
+*.iml
