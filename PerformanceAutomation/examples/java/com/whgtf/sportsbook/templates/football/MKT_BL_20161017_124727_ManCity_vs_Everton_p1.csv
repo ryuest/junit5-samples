@@ -1,0 +1,155 @@
+CATEGORY,CLASS,TYPE,NAME,DATE/TIME,MARKET,MARKET NAME,STATUS,DISPLAYED,DISPORDER,TAX RATE,LIVE PRICE,STARTING PRICE,FORECAST,TRICAST,EACH-WAY,PLACE,NUM PLACES,PLACE FRACTION,TERMS WITH BET,ACC MIN,ACC MAX,HANDICAP,LIAB LIMIT,EXT KEY,CHANNELS,AP,BET_IN_RUN,CASHOUT AVAILABLE
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Betting Live|","|Match Betting| |Live|",A,Y,500,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Result and 3 or More Goals in the Match| |Live|","|Match Result and 3 or More Goals in the Match| |Live|",A,Y,504,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Result and 4 or More Goals in the Match| |Live|","|Match Result and 4 or More Goals in the Match| |Live|",A,Y,504,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Result and 5 or More Goals in the Match| |Live|","|Match Result and 5 or More Goals in the Match| |Live|",A,Y,504,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Result and Both Teams To Score| |Live|","|Match Result and Both Teams To Score| |Live|",A,Y,505,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Betting Live|","|Half Time| |Live|",A,Y,515,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Betting Live|","|2nd Half Betting| |Live|",A,Y,550,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Double Chance Live|","|Double Chance| |Live|",A,Y,562,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Draw No Bet Live|","|Draw No Bet| |Live|",A,Y,560,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Winning Margin Live|","|Winning Margin| |Live|",A,Y,565,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal Live SF|","|1st Goal| |Live|",A,Y,570,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal Live SF|","|2nd Goal| |Live|",A,Y,575,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal Live SF|","|3rd Goal| |Live|",A,Y,580,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal Live SF|","|4th Goal| |Live|",A,Y,585,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal Live SF|","|5th Goal| |Live|",A,Y,590,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal Live SF|","|6th Goal| |Live|",A,Y,595,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal Live SF|","|7th Goal| |Live|",A,Y,600,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal Live SF|","|8th Goal| |Live|",A,Y,605,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Over/Under Goals| |Live|","|Match| |Over/Under| 0.5 |Goals| |Live|",A,Y,610,,,,,,,,,,,,,0.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Over/Under Goals| |Live|","|Match| |Over/Under| 1.5 |Goals| |Live|",A,Y,615,,,,,,,,,,,,,1.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Over/Under Goals| |Live|","|Match| |Over/Under| 2.5 |Goals| |Live|",A,Y,620,,,,,,,,,,,,,2.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Over/Under Goals| |Live|","|Match| |Over/Under| 3.5 |Goals| |Live|",A,Y,625,,,,,,,,,,,,,3.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Over/Under Goals| |Live|","|Match| |Over/Under| 4.5 |Goals| |Live|",A,Y,630,,,,,,,,,,,,,4.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Over/Under Goals| |Live|","|Match| |Over/Under| 5.5 |Goals| |Live|",A,Y,635,,,,,,,,,,,,,5.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Over/Under Goals| |Live|","|Match| |Over/Under| 6.5 |Goals| |Live|",A,Y,640,,,,,,,,,,,,,6.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Number Of Goals Live|","|Total Number Of Goals Live|",A,Y,645,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|2-Way Match Handicap| |Live|","|2-Way Match Handicap| |Live|",A,Y,680,,,,,,,,,,,,,0,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Live Score|","|Live Score|",A,Y,650,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Correct Score Live|","|1st Half Correct Score| |Live|",A,Y,655,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners Over/Under| |Live|","|Total Corners Over/Under| |Live|",A,Y,659,,,,,,,,,,,,,0,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners Live|","|Total Corners Live|",A,Y,660,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners Live|","|Alternative Total Corners 1| |Live|",A,Y,661,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners Live|","|Alternative Total Corners 2| |Live|",A,Y,662,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners Live|","|Alternative Total Corners 3| |Live|",A,Y,663,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Corners Live|","|1st Half Corners Live|",A,Y,665,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Corners Live|","|2nd Half Corners Live|",A,Y,670,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Handicap Live|","|Match Handicap| -3 |Live|",A,Y,690,,,,,,,,,,,,,-3,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Handicap Live|","|Match Handicap| -2 |Live|",A,Y,695,,,,,,,,,,,,,-2,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Handicap Live|","|Match Handicap| -1 |Live|",A,Y,700,,,,,,,,,,,,,-1,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Handicap Live|","|Match Handicap| +1 |Live|",A,Y,705,,,,,,,,,,,,,1,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Handicap Live|","|Match Handicap| +2 |Live|",A,Y,710,,,,,,,,,,,,,2,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Handicap Live|","|Match Handicap| +3 |Live|",A,Y,715,,,,,,,,,,,,,3,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Handicaps Live|","|1st Half Handicap| -2 |Live|",A,Y,740,,,,,,,,,,,,,-2,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Handicaps Live|","|1st Half Handicap| -1 |Live|",A,Y,745,,,,,,,,,,,,,-1,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Handicaps Live|","|1st Half Handicap| +1 |Live|",A,Y,750,,,,,,,,,,,,,1,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Handicaps Live|","|1st Half Handicap| +2 |Live|",A,Y,755,,,,,,,,,,,,,2,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Handicaps Live|","|2nd Half Handicap| -2 |Live|",A,Y,780,,,,,,,,,,,,,-2,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Handicaps Live|","|2nd Half Handicap| -1 |Live|",A,Y,785,,,,,,,,,,,,,-1,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Handicaps Live|","|2nd Half Handicap| +1 |Live|",A,Y,790,,,,,,,,,,,,,1,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Handicaps Live|","|2nd Half Handicap| +2 |Live|",A,Y,795,,,,,,,,,,,,,2,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Period Betting Live|","|Match Betting After 15 Mins Live|",A,Y,810,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Period Betting Live|","|Match Betting After 30 Mins Live|",A,Y,815,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Period Betting Live|","|Match Betting After 60 Mins Live|",A,Y,820,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Period Betting Live|","|Match Betting After 75 Mins Live|",A,Y,825,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Result and Under/Over 2.5 Goals Live|","|Match Result| |and| |Under/Over| 2.5 |Goals| |Live|",A,Y,830,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Race To X Goals Live|","|Race To| 2 |Goals| |Live|",A,Y,835,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Race To X Goals Live|","|Race To| 3 |Goals| |Live|",A,Y,840,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Double Result Live|","|Double Result| |Live|",A,Y,845,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Teams To Score Live|","|Teams To Score| |Live|",A,Y,850,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half With Most Goals Live|","|Half With Most Goals| |Live|",A,Y,855,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Goal Live|","|Half Of| |1st Goal| |Live|",A,Y,860,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Goal Live|","|Half Of| |2nd Goal| |Live|",A,Y,865,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Goal Live|","|Half Of| |3rd Goal| |Live|",A,Y,870,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Goal Live|","|Half Of| |4th Goal| |Live|",A,Y,875,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Goal Live|","|Half Of| |5th Goal| |Live|",A,Y,880,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals Live|","|$teamA| |Over/Under| 0.5 |Goals| |Live|",A,Y,885,,,,,,,,,,,,,0.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals Live|","|$teamA| |Over/Under| 1.5 |Goals| |Live|",A,Y,890,,,,,,,,,,,,,1.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals Live|","|$teamA| |Over/Under| 2.5 |Goals| |Live|",A,Y,895,,,,,,,,,,,,,2.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals Live|","|$teamA| |Over/Under| 3.5 |Goals| |Live|",A,Y,900,,,,,,,,,,,,,3.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals Live|","|$teamB| |Over/Under| 0.5 |Goals| |Live|",A,Y,915,,,,,,,,,,,,,0.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals Live|","|$teamB| |Over/Under| 1.5 |Goals| |Live|",A,Y,920,,,,,,,,,,,,,1.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals Live|","|$teamB| |Over/Under| 2.5 |Goals| |Live|",A,Y,925,,,,,,,,,,,,,2.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals Live|","|$teamB| |Over/Under| 3.5 |Goals| |Live|",A,Y,930,,,,,,,,,,,,,3.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Over/Under Goals| |Live|","|1st Half| |Over/Under| 0.5 |Goals| |Live|",A,Y,945,,,,,,,,,,,,,0.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Over/Under Goals| |Live|","|1st Half| |Over/Under| 1.5 |Goals| |Live|",A,Y,950,,,,,,,,,,,,,1.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Over/Under Goals| |Live|","|1st Half| |Over/Under| 2.5 |Goals| |Live|",A,Y,955,,,,,,,,,,,,,2.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Over/Under Goals| |Live|","|1st Half| |Over/Under| 3.5 |Goals| |Live|",A,Y,960,,,,,,,,,,,,,3.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Over/Under Goals| |Live|","|2nd Half| |Over/Under| 0.5 |Goals| |Live|",A,Y,975,,,,,,,,,,,,,0.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Over/Under Goals| |Live|","|2nd Half| |Over/Under| 1.5 |Goals| |Live|",A,Y,980,,,,,,,,,,,,,1.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Over/Under Goals| |Live|","|2nd Half| |Over/Under| 2.5 |Goals| |Live|",A,Y,985,,,,,,,,,,,,,2.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Over/Under Goals| |Live|","|2nd Half| |Over/Under| 3.5 |Goals| |Live|",A,Y,990,,,,,,,,,,,,,3.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half/Team Over/Under Goals Live|","|1st Half| |$teamA| |Over/Under| 0.5 |Goals| |Live|",A,Y,1005,,,,,,,,,,,,,0.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half/Team Over/Under Goals Live|","|1st Half| |$teamA| |Over/Under| 1.5 |Goals| |Live|",A,Y,1010,,,,,,,,,,,,,1.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half/Team Over/Under Goals Live|","|1st Half| |$teamA| |Over/Under| 2.5 |Goals| |Live|",A,Y,1015,,,,,,,,,,,,,2.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half/Team Over/Under Goals Live|","|1st Half| |$teamB| |Over/Under| 0.5 |Goals| |Live|",A,Y,1065,,,,,,,,,,,,,0.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half/Team Over/Under Goals Live|","|1st Half| |$teamB| |Over/Under| 1.5 |Goals| |Live|",A,Y,1070,,,,,,,,,,,,,1.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half/Team Over/Under Goals Live|","|1st Half| |$teamB| |Over/Under| 2.5 |Goals| |Live|",A,Y,1075,,,,,,,,,,,,,2.5,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Odd/Even Live|","|Total Match Goals| |Odd/Even| |Live|",A,Y,1140,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half With Most Goals Live|","|1st Half Number Of Goals Live|",A,Y,1155,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half With Most Goals Live|","|2nd Half Number Of Goals Live|",A,Y,1160,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Odd/Even Live|","|1st Half| |Odd/Even| |Goals| |Live|",A,Y,1165,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Odd/Even Live|","|2nd Half| |Odd/Even| |Goals| |Live|",A,Y,1170,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goals Live|","|$teamA| |Goals Live|",A,Y,1175,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goals Live|","|$teamB| |Goals Live|",A,Y,1180,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Both Team To Score Live|","|Both Teams To Score| |Live|",A,Y,1185,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|To Score In Both Halves Live|","|$teamA| |To Score Both Halves Live|",A,Y,1190,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|To Score In Both Halves Live|","|$teamB| |To Score Both Halves Live|",A,Y,1195,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Clean Sheet Live|","|$teamA| |Clean Sheet Live|",A,Y,1200,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Clean Sheet Live|","|$teamB| |Clean Sheet Live|",A,Y,1205,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|To Win To Nil Live|","|$teamA| |To Win To Nil Live|",A,Y,1210,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|To Win To Nil Live|","|$teamB| |To Win To Nil Live|",A,Y,1215,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goal In X Mins Bands|","|Match Goal Live - 16th To 30th Minute?|",A,Y,1235,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goal In X Mins Bands|","|Match Goal Live - 31st Minute To Half Time?|",A,Y,1240,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goal In X Mins Bands|","|Match Goal Live - 46th To 60th Minute?|",A,Y,1245,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goal In X Mins Bands|","|Match Goal Live - 61st To 75th Minute?|",A,Y,1250,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goal In X Mins Bands|","|Match Goal Live - 76th Minute To Full Time?|",A,Y,1255,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goal In X Mins Bands|","|Match Goal Live - 81st Minute To Full Time?|",A,Y,1260,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goal In X Mins Bands|","|Match Goal Live - 86th Minute To Full Time?|",A,Y,1265,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 1st Goal Before/After 15 Mins Live|",A,Y,1275,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 1st Goal Before/After 30 Mins Live|",A,Y,1280,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 1st Goal Before/After 60 Mins Live|",A,Y,1285,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 1st Goal Before/After 75 Mins Live|",A,Y,1290,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 2nd Goal Before/After 15 Mins Live|",A,Y,1295,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 2nd Goal Before/After 30 Mins Live|",A,Y,1300,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 2nd Goal Before/After 60 Mins Live|",A,Y,1305,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 2nd Goal Before/After 75 Mins Live|",A,Y,1310,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 3rd Goal Before/After 15 Mins Live|",A,Y,1315,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 3rd Goal Before/After 30 Mins Live|",A,Y,1320,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 3rd Goal Before/After 60 Mins Live|",A,Y,1325,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Next Goal Before/After Live|","|Time Of 3rd Goal Before/After 75 Mins Live|",A,Y,1330,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Team Goal Live|","|Half Of 1st| |$teamA| |Goal Live|",A,Y,1335,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Team Goal Live|","|Half Of 1st| |$teamB| |Goal Live|",A,Y,1340,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Team Goal Live|","|Half Of 2nd| |$teamA| |Goal Live|",A,Y,1345,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Team Goal Live|","|Half Of 2nd| |$teamB| |Goal Live|",A,Y,1350,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Team Goal Live|","|Half Of 3rd| |$teamA| |Goal Live|",A,Y,1355,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Of Next Team Goal Live|","|Half Of 3rd| |$teamB| |Goal Live|",A,Y,1360,,,,,,,,,,,,,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Partita Over/Under Goals Live|","|Partita| |Over/Under| 0.5 |Goals| |Live|",A,Y,610,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Partita Over/Under Goals Live|","|Partita| |Over/Under| 1.5 |Goals| |Live|",A,Y,615,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Partita Over/Under Goals Live|","|Partita| |Over/Under| 2.5 |Goals| |Live|",A,Y,620,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Partita Over/Under Goals Live|","|Partita| |Over/Under| 3.5 |Goals| |Live|",A,Y,625,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Partita Over/Under Goals Live|","|Partita| |Over/Under| 4.5 |Goals| |Live|",A,Y,630,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Partita Over/Under Goals Live|","|Partita| |Over/Under| 5.5 |Goals| |Live|",A,Y,635,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Partita Over/Under Goals Live|","|Partita| |Over/Under| 6.5 |Goals| |Live|",A,Y,640,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Tempo Over/Under Goals Live|","|Over/Under| 0.5 |Goals| |Primo Tempo| |Live|",A,Y,945,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Tempo Over/Under Goals Live|","|Over/Under| 1.5 |Goals| |Primo Tempo| |Live|",A,Y,950,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Tempo Over/Under Goals Live|","|Over/Under| 2.5 |Goals| |Primo Tempo| |Live|",A,Y,955,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Tempo Over/Under Goals Live|","|Over/Under| 3.5 |Goals| |Primo Tempo| |Live|",A,Y,960,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Tempo Over/Under Goals Live|","|Over/Under| 0.5 |Goals| |Secondo Tempo| |Live|",A,Y,975,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Tempo Over/Under Goals Live|","|Over/Under| 1.5 |Goals| |Secondo Tempo| |Live|",A,Y,980,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Tempo Over/Under Goals Live|","|Over/Under| 2.5 |Goals| |Secondo Tempo| |Live|",A,Y,985,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Tempo Over/Under Goals Live|","|Over/Under| 3.5 |Goals| |Secondo Tempo| |Live|",A,Y,990,,,,,,,,,,,,,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Risultato Esatto 26 Esiti| |Live|","|Risultato Esatto 26 Esiti| |Live|",A,Y,571,,,,,,,,,,,1,25,,,,,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Both Teams To Score| |Live|","|1st Half| |Both Teams To Score| |Live|",A,Y,531,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Both Teams To Score| |Live|","|2nd Half| |Both Teams To Score| |Live|",A,Y,531,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Over/Under Goals Casa Ospite| |Live|","|Over/Under| 0.5 |Goals| |Casa| |Live|",A,Y,885,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Over/Under Goals Casa Ospite| |Live|","|Over/Under| 1.5 |Goals| |Casa| |Live|",A,Y,890,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Over/Under Goals Casa Ospite| |Live|","|Over/Under| 2.5 |Goals| |Casa| |Live|",A,Y,895,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Over/Under Goals Casa Ospite| |Live|","|Over/Under| 3.5 |Goals| |Casa| |Live|",A,Y,900,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Over/Under Goals Casa Ospite| |Live|","|Over/Under| 0.5 |Goals| |Ospite| |Live|",A,Y,915,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Over/Under Goals Casa Ospite| |Live|","|Over/Under| 1.5 |Goals| |Ospite| |Live|",A,Y,920,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Over/Under Goals Casa Ospite| |Live|","|Over/Under| 2.5 |Goals| |Ospite| |Live|",A,Y,925,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Over/Under Goals Casa Ospite| |Live|","|Over/Under| 3.5 |Goals| |Ospite| |Live|",A,Y,930,,,,,,,,,,,1,25,,,,,,Y,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|WH Nevada Total Goals| |Live|","|WH Nevada Total Goals| |Live|",A,Y,1510,,,,,,,,,,,1,25,0,,,L,,Y,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|WH Nevada Handicap| |Live|","|WH Nevada Handicap| |Live|",A,Y,1500,,,,,,,,,,,1,25,0,,,L,,Y,N

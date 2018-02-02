@@ -1,0 +1,117 @@
+CATEGORY,CLASS,TYPE,NAME,DATE/TIME,MARKET,MARKET NAME,STATUS,DISPLAYED,DISPORDER,TAX RATE,LIVE PRICE,STARTING PRICE,FORECAST,TRICAST,EACH-WAY,PLACE,NUM PLACES,PLACE FRACTION,TERMS WITH BET,ACC MIN,ACC MAX,HANDICAP,LIAB LIMIT,EXT KEY,CHANNELS,AP,BET_IN_RUN,CASHOUT AVAILABLE
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal|","|2nd Goal|",A,Y,150,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal|","|3rd Goal|",A,Y,151,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal|","|4th Goal|",A,Y,152,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal|","|5th Goal|",A,Y,153,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal|","|2nd Half First Goal|",A,Y,170,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of 1st Goal Over/Under|","|Time Of 1st Goal Over/Under|",A,Y,191,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Team Goal|","|Time Of 1st| |$teamA| |Goal|",A,Y,212,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Team Goal|","|Time Of 1st| |$teamB| |Goal|",A,Y,213,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Team Goal Over/Under|","|Time Of 1st| |$teamA| |Goal Over/Under|",A,Y,214,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of Team Goal Over/Under|","|Time Of 1st| |$teamB| |Goal Over/Under|",A,Y,215,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 1st To 15th Minute?|",A,Y,216,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 16th To 30th Minute?|",A,Y,217,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 31st Minute To Half Time?|",A,Y,218,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 46th To 60th Minute?|",A,Y,219,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 61st To 75th Minute?|",A,Y,220,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 76th Minute To Full Time?|",A,Y,221,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 81st Minute To Full Time?|",A,Y,222,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 86th Minute To Full Time?|",A,Y,223,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Goal - In X To Y Minute?|","|Match Goal - 2nd Half Injury Time?|",A,Y,224,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamA| |Goal - 1st To 15th Minute?|",A,Y,225,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamA| |Goal - 16th To 30th Minute?|",A,Y,226,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamA| |Goal - 31st Minute To Half Time?|",A,Y,227,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamA| |Goal - 46th To 60th Minute?|",A,Y,228,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamA| |Goal - 61st To 75th Minute?|",A,Y,229,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamA| |Goal - 76th Minute To Full Time?|",A,Y,230,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamB| |Goal - 1st To 15th Minute?|",A,Y,234,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamB| |Goal - 16th To 30th Minute?|",A,Y,235,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamB| |Goal - 31st Minute To Half Time?|",A,Y,236,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamB| |Goal - 46th To 60th Minute?|",A,Y,237,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamB| |Goal - 61st To 75th Minute?|",A,Y,238,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Goal - In X To Y Minute?|","|$teamB| |Goal - 76th Minute To Full Time?|",A,Y,239,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners|","|Total Match Corners|",A,Y,243,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners|","|Alternative Total Corners 1|",A,Y,243,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners|","|Alternative Total Corners 2|",A,Y,243,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Corners|","|Alternative Total Corners 3|",A,Y,243,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Corners Odd/Even|","|Total Match Corners Odd/Even|",A,Y,244,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Corners Match Bet|","|Team With Most Corners|",A,Y,245,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Corners Handicap|","|Corners Handicap|",A,Y,246,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Corners Double Result|","|Corners Double Result|",A,Y,247,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Corners Match Bet|","|Team With Most 1st Half Corners|",A,Y,248,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Corners Match Bet|","|Team With Most 2nd Half Corners|",A,Y,249,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half With Most Corners|","|Half With Most Corners|",A,Y,252,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|First/Last Corner|","|1st Corner|",A,Y,253,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|First/Last Corner|","|Last Corner|",A,Y,254,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Corners|","|1st Half Corners|",A,Y,255,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Corners|","|2nd Half Corners|",A,Y,257,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Corner - X To Y Minute?|","|Match Corner - 1st To 15th Minute?|",A,Y,259,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Corner - X To Y Minute?|","|Match Corner - 16th To 30th Minute?|",A,Y,260,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Corner - X To Y Minute?|","|Match Corner - 31st Minute To Half Time?|",A,Y,261,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Corner - X To Y Minute?|","|Match Corner - 46th To 60th Minute?|",A,Y,262,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Corner - X To Y Minute?|","|Match Corner - 61st To 75th Minute?|",A,Y,263,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Corner - X To Y Minute?|","|Match Corner - 76th Minute To Full Time?|",A,Y,264,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Team Corners|","|Total| |$teamA| |Corners|",A,Y,265,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Team Corners|","|Total| |$teamB| |Corners|",A,Y,266,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Team Corners|","|1st Half| |$teamA| |Corners|",A,Y,267,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Team Corners|","|1st Half| |$teamB| |Corners|",A,Y,268,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Team Corners|","|2nd Half| |$teamA| |Corners|",A,Y,269,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Team Corners|","|2nd Half| |$teamB| |Corners|",A,Y,270,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamA| |Corner - 1st To 15th Minute?|",A,Y,271,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamA| |Corner - 16th To 30th Minute?|",A,Y,272,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamA| |Corner - 31st Minute To Half Time?|",A,Y,273,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamA| |Corner - 46th To 60th Minute?|",A,Y,274,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamA| |Corner - 61st To 75th Minute?|",A,Y,275,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamA| |Corner - 76th Minute To Full Time?|",A,Y,276,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamB| |Corner - 1st To 15th Minute?|",A,Y,277,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamB| |Corner - 16th To 30th Minute?|",A,Y,278,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamB| |Corner - 31st Minute To Half Time?|",A,Y,279,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamB| |Corner - 46th To 60th Minute?|",A,Y,280,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamB| |Corner - 61st To 75th Minute?|",A,Y,281,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Corner - X To Y Minute?|","|$teamB| |Corner - 76th Minute To Full Time?|",A,Y,282,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Match Cards|","|Total Match Cards|",A,Y,283,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Match Cards Odd/Even|","|Total Match Cards Odd/Even|",A,Y,284,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of 1st Card|","|Time Of 1st Card|",A,Y,285,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|First/Last Card|","|1st Card|",A,Y,286,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|First/Last Card|","|Last Card|",A,Y,287,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Cards|","|1st Half Cards|",A,Y,288,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Half Cards|","|2nd Half Cards|",A,Y,289,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Red Card In The Match?|","|Red Card In The Match?|",A,Y,290,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Card Shown - X To Y Minute?|","|Card Shown - 1st To 15th Minute?|",A,Y,291,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Card Shown - X To Y Minute?|","|Card Shown - 16th To 30th Minute?|",A,Y,292,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Card Shown - X To Y Minute?|","|Card Shown - 31st Minute To Half Time?|",A,Y,293,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Card Shown - X To Y Minute?|","|Card Shown - 46th To 60th Minute?|",A,Y,294,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Card Shown - X To Y Minute?|","|Card Shown - 61st To 75th Minute?|",A,Y,295,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Card Shown - X To Y Minute?|","|Card Shown - 76th Minute To Full Time?|",A,Y,296,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Team Cards|","|Total| |$teamA| |Cards|",A,Y,297,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Team Cards|","|Total| |$teamB| |Cards|",A,Y,298,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamA| |Card - 1st To 15th Minute?|",A,Y,299,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamA| |Card - 16th To 30th Minute?|",A,Y,300,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamA| |Card - 31st Minute To Half Time?|",A,Y,301,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamA| |Card - 46th To 60th Minute?|",A,Y,302,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamA| |Card - 61st To 75th Minute?|",A,Y,303,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamA| |Card - 76th Minute To Full Time?|",A,Y,304,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamB| |Card - 1st To 15th Minute?|",A,Y,305,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamB| |Card - 16th To 30th Minute?|",A,Y,306,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamB| |Card - 31st Minute To Half Time?|",A,Y,307,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamB| |Card - 46th To 60th Minute?|",A,Y,308,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamB| |Card - 61st To 75th Minute?|",A,Y,309,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Card - X To Y Minute?|","|$teamB| |Card - 76th Minute To Full Time?|",A,Y,310,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Most Booking Points|","|Most Booking Points|",A,Y,312,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Bookings|","|Total Bookings| 1",A,Y,282,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Bookings|","|Total Bookings| 2",A,Y,282,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Total Bookings|","|Total Bookings| 3",A,Y,282,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goals x Corners|","|Goals x Corners|",A,Y,314,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Timecast|","|Timecast|",A,Y,315,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Goals x Cards|","|Goals x Cards|",A,Y,316,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Corners x Cards|","|Corners x Cards|",A,Y,317,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Trebles|","|Match Trebles|",A,Y,318,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Stats Trebles|","|Stats Trebles|",A,Y,319,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Performance|","|$teamA| |Performance|",A,Y,322,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Performance|","|$teamB| |Performance|",A,Y,323,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|5 Minute Markets|","|CORNER awarded in the first 5 minutes?| 00:00 - 04:59",A,Y,330,,,,,,,,,,,1,25,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|5 Minute Markets - Over / Under 1.5 Corners|","|Over/Under 1.5 Corners in the first 5 minutes?| 00:00 - 04:59",A,Y,331,,,,,,,,,,,1,25,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|5 Minute Markets|","|CARD shown in the first 5 minutes?| 00:00 - 04:59",A,Y,332,,,,,,,,,,,1,25,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|5 Minute Markets|","|PENALTY awarded in the first 5 minutes?| 00:00 - 04:59",A,Y,333,,,,,,,,,,,1,25,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|5 Minute Markets|","|What will happen FIRST in the first 5 minutes?| 00:00 - 04:59",A,Y,334,,,,,,,,,,,1,25,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|5 Minute Markets|","|Match Action in the first 5 minutes| 00:00 - 04:59",A,Y,335,,,,,,,,,,,1,25,,,,,,N,N

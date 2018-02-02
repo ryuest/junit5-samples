@@ -1,0 +1,12 @@
+CATEGORY,CLASS,TYPE,NAME,DATE/TIME,MARKET,MARKET NAME,STATUS,DISPLAYED,DISPORDER,TAX RATE,LIVE PRICE,STARTING PRICE,FORECAST,TRICAST,EACH-WAY,PLACE,NUM PLACES,PLACE FRACTION,TERMS WITH BET,ACC MIN,ACC MAX,HANDICAP,LIAB LIMIT,EXT KEY,CHANNELS,AP,BET_IN_RUN,CASHOUT AVAILABLE
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Period Betting|","|15 Minutes Betting|",A,Y,136,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Period Betting|","|30 Minutes Betting|",A,Y,137,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Period Betting|","|60 Minutes Betting|",A,Y,138,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Period Betting|","|75 Minutes Betting|",A,Y,139,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal|","|1st Goal|",A,Y,149,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Next Goal|","|Last Goal|",A,Y,154,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Race To X Goals|","|Race To 2 Goals|",A,Y,155,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Race To X Goals|","|Race To 3 Goals|",A,Y,156,,,,,,,,,,,,,,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Anytime Own Goal|","|Anytime Own Goal|",A,Y,159,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|1st Goal To Be Own Goal?|","|1st Goal To Be Own Goal?|",A,Y,160,,,,,,,,,,,,,,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Time Of 1st Goal|","|Time Of 1st Goal|",A,Y,190,,,,,,,,,,,,,,,,,,N,N

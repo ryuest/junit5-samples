@@ -1,0 +1,25 @@
+CATEGORY,CLASS,TYPE,NAME,DATE/TIME,MARKET,MARKET NAME,STATUS,DISPLAYED,DISPORDER,TAX RATE,LIVE PRICE,STARTING PRICE,FORECAST,TRICAST,EACH-WAY,PLACE,NUM PLACES,PLACE FRACTION,TERMS WITH BET,ACC MIN,ACC MAX,HANDICAP,LIAB LIMIT,EXT KEY,CHANNELS,AP,BET_IN_RUN,CASHOUT AVAILABLE
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamA| |Over/Under| 0.5 |Goals|",A,Y,194,,,,,,,,,,,1,25,0.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamA| |Over/Under| 1.5 |Goals|",A,Y,195,,,,,,,,,,,1,25,1.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamA| |Over/Under| 2.5 |Goals|",A,Y,196,,,,,,,,,,,1,25,2.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamA| |Over/Under| 3.5 |Goals|",A,Y,197,,,,,,,,,,,1,25,3.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamA| |Over/Under| 4.5 |Goals|",A,Y,198,,,,,,,,,,,1,25,4.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamA| |Over/Under| 5.5 |Goals|",A,Y,199,,,,,,,,,,,1,25,5.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamB| |Over/Under| 0.5 |Goals|",A,Y,200,,,,,,,,,,,1,25,0.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamB| |Over/Under| 1.5 |Goals|",A,Y,201,,,,,,,,,,,1,25,1.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamB| |Over/Under| 2.5 |Goals|",A,Y,202,,,,,,,,,,,1,25,2.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamB| |Over/Under| 3.5 |Goals|",A,Y,203,,,,,,,,,,,1,25,3.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamB| |Over/Under| 4.5 |Goals|",A,Y,204,,,,,,,,,,,1,25,4.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|$teamB| |Over/Under| 5.5 |Goals|",A,Y,205,,,,,,,,,,,1,25,5.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamA| |Over/Under| 0.5 |Goals|",A,Y,212,,,,,,,,,,,1,25,0.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamA| |Over/Under| 1.5 |Goals|",A,Y,213,,,,,,,,,,,1,25,1.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamA| |Over/Under| 2.5 |Goals|",A,Y,214,,,,,,,,,,,1,25,2.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamA| |Over/Under| 3.5 |Goals|",A,Y,215,,,,,,,,,,,1,25,3.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamA| |Over/Under| 4.5 |Goals|",A,Y,216,,,,,,,,,,,1,25,4.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamA| |Over/Under| 5.5 |Goals|",A,Y,217,,,,,,,,,,,1,25,5.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamB| |Over/Under| 0.5 |Goals|",A,Y,218,,,,,,,,,,,1,25,0.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamB| |Over/Under| 1.5 |Goals|",A,Y,219,,,,,,,,,,,1,25,1.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamB| |Over/Under| 2.5 |Goals|",A,Y,220,,,,,,,,,,,1,25,2.5,,,,,N,Y
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamB| |Over/Under| 3.5 |Goals|",A,Y,221,,,,,,,,,,,1,25,3.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamB| |Over/Under| 4.5 |Goals|",A,Y,222,,,,,,,,,,,1,25,4.5,,,,,N,N
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Team Over/Under Goals|","|1st Half| |$teamB| |Over/Under| 5.5 |Goals|",A,Y,223,,,,,,,,,,,1,25,5.5,,,,,N,N

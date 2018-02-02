@@ -1,0 +1,4 @@
+CATEGORY,CLASS,TYPE,NAME,DATE/TIME,MARKET,SELECTION,STATUS,DISPLAYED,DISPORDER,MIN BET,MAX BET,MAX TOTAL,STK/LBT,LIVE PRICE,SP GUIDE,FB RESULT,EXT KEY,MULT KEY,CHANNELS
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|90 Minutes - SSBT|","|$teamA|",A,Y,10,0.03,,,L,1/100,,H,,MNC,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|90 Minutes - SSBT|","|Draw|",A,Y,20,0.03,,,L,1/100,,D,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|90 Minutes - SSBT|","|$teamB|",A,Y,30,0.03,,,L,1/100,,A,,EVE,

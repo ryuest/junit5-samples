@@ -1,0 +1,12 @@
+CATEGORY,CLASS,TYPE,NAME,DATE/TIME,MARKET,SELECTION,STATUS,DISPLAYED,DISPORDER,MIN BET,MAX BET,MAX TOTAL,STK/LBT,LIVE PRICE,SP GUIDE,FB RESULT,EXT KEY,MULT KEY,CHANNELS
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Action|","50 |Points Or Less|",A,Y,10,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Action|","51-60 |Points|",A,Y,20,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Action|","61-70 |Points|",A,Y,30,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Action|","71-80 |Points|",A,Y,40,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Action|","81-90 |Points|",A,Y,50,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Action|","91-100 |Points|",A,Y,60,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Match Action|","|Over| 100 |Points|",A,Y,70,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Penalty Awarded|","|Yes|",A,Y,10,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Penalty Awarded|","|No|",A,Y,20,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Penalty Specials|","|Penalty Awarded And Scored|",A,Y,30,0.03,,,L,1/100,,,,,
+FOOTBALL,"|$sport|","|$competition|","|$teamA| |vs| |$teamB|",$eventStartTime,"|Penalty Specials|","|Penalty Awarded And Missed|",A,Y,40,0.03,,,L,1/100,,,,,
